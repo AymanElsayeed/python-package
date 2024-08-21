@@ -30,8 +30,9 @@ pip install -e .
 ```bash
 python setup.py sdist bdist_wheel
 ```
-    sdidt: source distribution
-    bdist_wheel: wheel distribution
+sdidt: source distribution
+
+bdist_wheel: wheel distribution
 
 ## Upload package to PyPi
 
