@@ -15,6 +15,7 @@ this project is a template or a guide to help you develop your own python packag
     │   │   │   └── module.py
     │   ├── setup.py
     │   ├── README.md
+    │   ├── HISTORY.md
     │   ├── LICENSE
     │   ├── requirements.txt
     │   ├── MANIFEST.in
