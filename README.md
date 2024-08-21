@@ -18,6 +18,7 @@ this project is a template or a guide to help you develop your own python packag
     │   ├── LICENSE
     │   ├── requirements.txt
     │   ├── MANIFEST.in
+    │   ├── tox.ini
     │   └── tests
     │       ├── __init__.py
     │       ├── pytest.ini
