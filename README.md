@@ -13,8 +13,11 @@ this project is a template or a guide to help you develop your own python packag
     │   │   ├── sub_package
     │   │   │   ├── __init__.py
     │   │   │   └── module.py
-    │   |── setup.py
-    │   └── README.md
+    │   ├── setup.py
+    │   ├── README.md
+    │   ├── LICENSE
+    │   ├── requirements.txt
+    │   ├── MANIFEST.in
     │   └── tests
     │       ├── __init__.py
     │       ├── pytest.ini
