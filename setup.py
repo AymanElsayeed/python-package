@@ -8,7 +8,7 @@ with open('HISTORY.md') as history_file:
     history = history_file.read()
 
 setup(
-    name='my_package',
+    name='AymanPackage',
     version='0.1.0',
     author='Ayman Elsayeed',
     description='A small example package',
@@ -20,7 +20,7 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
-        'Development Status :: 1 - pre-alpha',
+        'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
     ],
 )
