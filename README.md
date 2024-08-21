@@ -8,13 +8,20 @@ this project is a template or a guide to help you develop your own python packag
 ## Project Structure
     .
     ├── python-package
-    │   ├── python_package
+    │   ├── pythonPackage
     │   │   ├── __init__.py
     │   │   ├── sub_package
     │   │   │   ├── __init__.py
     │   │   │   └── module.py
     │   |── setup.py
     │   └── README.md
+    │   └── tests
+    │       ├── __init__.py
+    │       ├── pytest.ini
+    │       ├── config.py
+    │       └── test_sub_package
+    │           ├── __init__.py
+    │           └── test_module.py
 
 
 ## Installation
