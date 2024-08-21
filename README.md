@@ -10,7 +10,7 @@ this project is a template or a guide to help you develop your own python packag
     ├── python-package
     │   ├── pythonPackage
     │   │   ├── __init__.py
-    │   │   ├── sub_package
+    │   │   ├── subpackage
     │   │   │   ├── __init__.py
     │   │   │   └── module.py
     │   ├── setup.py
